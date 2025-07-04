@@ -20,6 +20,11 @@ This is solved using **Minimum Spanning Tree (MST)** algorithms.
 
 - **Kruskal’s Algorithm**: Sorts all edges in increasing order of weight and selects the shortest ones that don’t form a cycle using Union-Find.
 - **Prim’s Algorithm**: Starts from any house and expands the MST by choosing the smallest weight edge that connects a new house.
+---
+
+##👤 Author
+Achyuth Parisha
+GitHub: https://github.com/Achyuth69
 
 ---
 
@@ -69,9 +74,3 @@ B - C : 1
 B - D : 2
 A - B : 3
 Total Wire Length: 6
-
----
-
-######👤 Author
-Achyuth Parisha
-GitHub: https://github.com/Achyuth69

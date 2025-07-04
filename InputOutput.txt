@@ -1,0 +1,31 @@
+Enter number of houses (nodes):
+5
+Enter adjacency matrix (0 if no direct wire):
+0 2 0 6 0
+2 0 3 8 5
+0 3 0 0 7
+6 8 0 0 9
+0 5 7 9 0
+
+
+
+
+
+
+
+
+
+--- Prim's Algorithm ---
+House 0 - House 1  = 2
+House 1 - House 2  = 3
+House 1 - House 4  = 5
+House 0 - House 3  = 6
+Minimum total wire length: 16
+
+--- Kruskal's Algorithm ---
+Edges in MST:
+House 0 - House 1 = 2
+House 1 - House 2 = 3
+House 1 - House 4 = 5
+House 0 - House 3 = 6
+Minimum total wire length: 16
